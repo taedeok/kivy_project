@@ -1,0 +1,3 @@
+title=Test kivy
+author=TDK
+orientation=portrait
